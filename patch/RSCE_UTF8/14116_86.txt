@@ -31,7 +31,7 @@ I'm just someone who...
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You're <Johnny>, right?
+<Johnny>, right?
 [ENDBLOCK]
 Man
 [ENDBLOCK]
@@ -622,13 +622,13 @@ Don't Go
 [ENDBLOCK]
 Ferryman
 [ENDBLOCK]
-Now, where are we going?
+Hello, where would you like to go?
 <x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80><x18><x65><x57><xD8><x00><x80>
 [ENDBLOCK]
 Girl
 [ENDBLOCK]
 What will happen to our school if
-this becomes part of Terazzi?
+this becomes Terazzi territory?
 [ENDBLOCK]
 Girl
 [ENDBLOCK]

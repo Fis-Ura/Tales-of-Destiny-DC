@@ -1,6 +1,6 @@
 
 [ENDBLOCK]
-<TAG_005>There's nothing in it.
+<TAG_005>There's nothing inside.
 [ENDBLOCK]
 
 [ENDBLOCK]
@@ -309,7 +309,7 @@ the sea being so salty.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-Sounds like a fairy tale.
+Just like a fairy tale.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -321,7 +321,7 @@ Retired Man
 [ENDBLOCK]
 My failing memory is all
 thanks to that kick in
-the head I took from him.
+the head I took from it.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -337,8 +337,8 @@ but it certainly is good for the body.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-So here's what
-I've got for you...
+Well then, let me share with
+you an interesting story...
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -392,8 +392,10 @@ in the Discovery Book.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-To quit or continue, you have
-the freedom to choose.
+You have the freedom to choose
+between ending your journey now
+or to continue forward from this
+point.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]

@@ -141,7 +141,7 @@ important mission?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Hey, it's those guys...
+Hey, it's them again!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -234,7 +234,7 @@ take care, you guys!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Ah, it's them...
+Hey, it's them again!
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]
@@ -485,8 +485,8 @@ their best for us.
 [ENDBLOCK]
 Mayor
 [ENDBLOCK]
-I'm grateful to you, my brave
-friend, for acting as my guide.
+I'm very grateful to have such a
+brave hero tutoring my grandson.
 [ENDBLOCK]
 <Grid>
 [ENDBLOCK]

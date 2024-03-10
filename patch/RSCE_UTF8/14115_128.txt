@@ -240,7 +240,7 @@ Don't Go
 Ferryman
 
 [ENDBLOCK]
-Hop in! Where would you like to go?
+Hello, where would you like to go?
 <x18><x65><x57><xC4><x00><x80><x18><x65><x57><xC8><x00><x80><x18><x65><x57><xCC><x00><x80><x18><x65><x57><xD0><x00><x80><x18><x65><x57><xD4><x00><x80>
 [ENDBLOCK]
  mset_person_fly( EFF_NUM01 ,<x1D><x28><x5A><x1B><x20><x14><x6D><x80>,<x1D><x28><x5A><x1B><x21><x14><x6D><x80> ,<x1D><x28><x5A><x1B><x24><x02><x14><x6D><x80>,no_btleff_001 ,0 ,TBL_FIRE_LOOP   )
@@ -808,8 +808,8 @@ know who might be listening.
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
-I know Lord <Fayte> will be
-able to fix this country!
+I'm certain Lord <Fayte> will
+be able to fix this country.
 [ENDBLOCK]
 Young Lady
 [ENDBLOCK]
@@ -846,8 +846,9 @@ he mentioned?
 [ENDBLOCK]
 Weapon Shop
 [ENDBLOCK]
-No matter what happens, I'm not
-going to stop doing business.
+Well, whatever happens, I'm
+not letting it stop me from
+doing business!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -957,7 +958,7 @@ if Definite Strike is "ON."
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I've got nothing
+I don't have anything
 else to give you.
 [ENDBLOCK]
 Man
@@ -976,7 +977,7 @@ Dummy store placement
 Shop
 Water Moon Flower
 Weapon House: Poseidon
-Weapon Shop: Color of Color
+Armor Shop: Color of Color
 
 [ENDBLOCK]
 <Stahn>
@@ -1795,7 +1796,7 @@ clown act he puts on?
 <Rutee>
 [ENDBLOCK]
 That's our <Mary>. Always
-asking  what no one else
+asking what no one else
 can bring themselves to.
 [ENDBLOCK]
 <Rihanna>

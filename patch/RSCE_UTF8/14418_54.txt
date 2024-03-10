@@ -522,17 +522,17 @@ Traveler
 I bet they'd mistake you
 for him just like I did.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Hey, what's your name again...?
 Wait, don't tell me. It's on the
 tip of my tongue...
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 ...Vei...Vei...
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Damn it! I can't remember.
 [ENDBLOCK]
@@ -581,7 +581,7 @@ Would you like to take a rest?
 [ENDBLOCK]
 Select
 [ENDBLOCK]
-Are you going to rest?
+Would you like to rest?
 Yes
 No
 [ENDBLOCK]
@@ -678,9 +678,10 @@ The Canvas has been unlocked.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
-In <Chelsea>'s room at <Alba>'s Cabin.
-On the canvas you can see your
-friends' various faces.
+By interacting with the blank canvas
+in <Chelsea>'s room inside of <Alba>'s
+cabin, you can view different facial
+expressions of your friends.
 [ENDBLOCK]
 Notice
 [ENDBLOCK]
@@ -773,23 +774,24 @@ Well, it's nice to meet you.
 [ENDBLOCK]
 Chatty Old Man
 [ENDBLOCK]
-Hmmm. Contact with people is a
-once in a lifetime opportunity.
-Treasure it.
-
+Hmmm. The opportunity to meet
+someone for the first time is a
+once in a lifetime event, which
+must be cherished.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Con...tact?
+I don't get it...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-It means, socialize
-without regret.
+He means, don't mess up your first
+impression when you meet someone.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I see! Thank you!
+Ohh... I get it!
+Thank you!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -1027,68 +1029,68 @@ Give 'em a good booing! "Boo!
 Boo, you stink!" That'll throw
 'em off guard!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 There's an orphanage on the out-
 skirts of town. I don't know how
 much longer it'll be there, though.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Rumor has it they're buried
 under a mountain of debt. It's
 likely they'll be evicted, soon.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 You're looking for a soldier
 from the capital? He lives
 in that house, right there.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 There's an orphanage on the out-
 skirts of town. I don't know how
 much longer it'll be there, though.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Rumor has it they're buried
 under a mountain of debt. It's
 likely they'll be evicted, soon.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 <Rutee>, you quit being a lens hunter?
 Guess the rumors were true.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 I heard the reason you were so
 greedy was because you wanted
 to pay off your family's debt.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 I heard that <Rutee> quit
 being a lens hunter.
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 This is a global crisis. Seinegald
 is not the only region affected!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Do those things in the sky want
 to wipe us out or something!?
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 This is our city! We won't
 let it fall so easily!
 [ENDBLOCK]
-Young Person
+Young Man
 [ENDBLOCK]
 Is the secret weapon ready?
 Are they gonna use it soon!?

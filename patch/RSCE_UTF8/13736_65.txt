@@ -9,7 +9,7 @@ They called me a
 <Marian>
 [ENDBLOCK]
 Recently, the public have been treating
-those of us who live in the mansion with
+those of us who live in the mansion very
 harshly, as though we were synonymous
 with the Oberon Corporation.
 [ENDBLOCK]
@@ -124,24 +124,8 @@ Welcome back, Master <Lion>.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Welcome. Are you here to see
-the master of the house?
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-Oh, Emilio? Have
-you finished your
-work yet?
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-Emilio, don't push
-yourself too hard.
-[ENDBLOCK]
-<Marian>
-[ENDBLOCK]
-Welcome. Are you here to see
-the master of the house?
+Are you here to see the
+Master of the house?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -150,8 +134,23 @@ strong, and never give up.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Welcome. Are you here to see
-the master of the house?
+Emilio, don't push
+yourself too hard.
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+Are you here to see the
+Master of the house?
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+Emilio, hang in there. Stay
+strong, and never give up.
+[ENDBLOCK]
+<Marian>
+[ENDBLOCK]
+Are you here to see the
+Master of the house?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -159,9 +158,8 @@ Have a nice day, Emilio.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Oh, Emilio? Have
-you finished your
-work yet?
+Emilio, hang in there. Stay
+strong, and never give up.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -176,8 +174,8 @@ Welcome back, Master <Lion>.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Welcome. Are you here to see
-the master of the house?
+Are you here to see the
+Master of the house?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -186,8 +184,8 @@ yourself too hard.
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
-Welcome. Are you here to see
-the master of the house?
+Are you here to see the
+Master of the house?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]
@@ -647,7 +645,7 @@ presence?
 <Lion>
 [ENDBLOCK]
 Shouldn't you be able to
-handle this on your own.
+handle this on your own?
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
@@ -683,7 +681,7 @@ joined their ranks.
 [ENDBLOCK]
 Soldier
 [ENDBLOCK]
-According to the report, It appears
+According to the report, it appears
 <Rutee> Katrea is in possession of a
 mysterious sword.
 [ENDBLOCK]
@@ -977,7 +975,7 @@ Wait, before I forget!
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Hm?
+Hmm?
 [ENDBLOCK]
 <Marian>
 [ENDBLOCK]

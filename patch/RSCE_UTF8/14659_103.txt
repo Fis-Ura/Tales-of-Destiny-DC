@@ -1,6 +1,6 @@
 
 [ENDBLOCK]
-<center>Access Granted
+Access Granted
 
 [ENDBLOCK]
 
@@ -128,7 +128,7 @@ Well, <Rutee>... If you must know...
 [ENDBLOCK]
 O-Oh right, that reminds me, <Stahn>.
 I remember hiding one of my most
-treasured possessions near here!
+prized possessions near here!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -188,8 +188,8 @@ their personalities onto us!
 [ENDBLOCK]
 <Chaltier>
 [ENDBLOCK]
-It's really been a thousand
-years since then, hasn't it...
+Has it really been a thousand
+years since then...
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
@@ -286,7 +286,7 @@ All right.
 <Atwight>
 [ENDBLOCK]
 It doesn't appear to be broken. Well,
-that's the first hurdle passed.
+   that's the first hurdle passed.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -294,8 +294,8 @@ Let's get started.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-First, place us Swordians
-in each of the chambers.
+First, place us Swordians in
+   each of the chambers.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -323,8 +323,8 @@ Agh...!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-Do not shut it down!
-Leave it at this output!!
+  Do not shut it down!
+Leave it at this output!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -336,7 +336,7 @@ Are they going to be okay?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-I don't know. Guess we'll just
+I don't know. Guess we'll
 have to wait and see.
 [ENDBLOCK]
 <Stahn>
@@ -367,9 +367,9 @@ Maybe, but on the inside...
 [ENDBLOCK]
 <Igtenos>
 [ENDBLOCK]
-<center>The rigidity of our blades, our energy
-conversion efficiency, everything
-about us has been greatly improved.
+The rigidity of our blades, our energy
+   conversion efficiency, everything
+ about us has been greatly improved.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -379,12 +379,12 @@ we're next, huh?
 <Dymlos>
 [ENDBLOCK]
 That's right. As soon as you are ready,
-you may enter the chambers with us.
+  you may enter the chambers with us.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
 Once we begin, our consciousness will
-be taken to a place between worlds.
+ be taken to a place between worlds.
 [ENDBLOCK]
 <Clemente>
 [ENDBLOCK]
@@ -420,12 +420,12 @@ Yeah.
 <Dymlos>
 [ENDBLOCK]
 Forget about that. If you continue
-with that mindset, you will fall.
+  with that mindset, you will fall.
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
 It's not enough to be like him! That's
-not enough! You must surpass him!
+ not enough! You must surpass him!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -545,7 +545,7 @@ Hey! Don't bring the mood down!
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
-You're getting carried away!
+ You're getting carried away!
 Still just as careless as ever...
 [ENDBLOCK]
 <Stahn>

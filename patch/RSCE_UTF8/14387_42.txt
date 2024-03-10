@@ -789,8 +789,8 @@ It's a breathtaking sight.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-So here's what
-I've got for you...
+Well then, let me share with
+you an interesting story...
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -830,8 +830,10 @@ in the Discovery Book.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-To quit or continue, you have
-the freedom to choose.
+You have the freedom to choose
+between ending your journey now
+or to continue forward from this
+point.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -853,7 +855,7 @@ want to stop doing it.
 Chief's Wife
 [ENDBLOCK]
 You're leaving again, aren't you?
-My daughter is going to miss you!
+My daughter is going to miss you.
 [ENDBLOCK]
 Chief's Wife
 [ENDBLOCK]
@@ -885,7 +887,7 @@ want to stop doing it.
 Chief's Wife
 [ENDBLOCK]
 You're leaving again, aren't you?
-My daughter is going to miss you!
+My daughter is going to miss you.
 [ENDBLOCK]
 Chief's Wife
 [ENDBLOCK]

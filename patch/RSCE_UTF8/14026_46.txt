@@ -75,15 +75,15 @@
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You seem like a decent guy. You're
-going to have to play the brother.
+You seem like a decent guy. Why
+don'tcha challenge me, bro?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Yeah, okay, but... What
-about this guy?
+Yeah, okay, but...
+Who's this guy?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 I'm a wealthy resident of the
 city. I sponsor the race.
@@ -93,16 +93,16 @@ city. I sponsor the race.
 Sponsor?
 What's that?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 Well, simply put... I provide
 the prizes to the winner.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Wow, but why?
+Wow! But why?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 Well, when you're rich, you have
 a lot of time and money on your
@@ -114,8 +114,8 @@ Come on, come on, that's enough.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You can decide what to
-do after this, brother.
+Let me know when
+you're ready, bro.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -124,15 +124,15 @@ so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Are you sure that's who
-you want to race with?
+You sure you wanna
+race, dude?
 [ENDBLOCK]
 <Lion>
 [ENDBLOCK]
-Yeah, no problem. Who's
-this guy anyway?
+It doesn't matter. Who's 
+this guy, anyway?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 I'm a wealthy resident of the
 city. I sponsor the race.
@@ -141,7 +141,7 @@ city. I sponsor the race.
 [ENDBLOCK]
 Sponsor?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 Well, simply put... I provide
 the prizes to the winner.
@@ -151,7 +151,7 @@ the prizes to the winner.
 Why are you funding
 this kind of event?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 Haha, I don't have a reason.
 I'm just rich and bored.
@@ -164,12 +164,12 @@ that's enough.
 Boy
 [ENDBLOCK]
 Let me know when
-you're ready, dude.
+you're ready, bro.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
 The course is complicated,
-so learn it well.
+so pay attention.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -203,7 +203,7 @@ Today... I'm serious, too.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Come on, make your choice!!
+Come on, decide already!
 [ENDBLOCK]
 	・Setting up course data
 [ENDBLOCK]
@@ -317,11 +317,11 @@ Boy
 [ENDBLOCK]
 Pfff! Running away, huh?
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 The race is two laps.
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 On your mark.
 [ENDBLOCK]
@@ -332,25 +332,25 @@ Finish!
 □□かけっこレベル１＆勝利済み	アイテムラベル：eventItem_SS_21_02_01(<x09><xC4><x0B><x00><x00>)
 
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 You win. Please take this.
 [ENDBLOCK]
 □□かけっこレベル２＆勝利済み	アイテムラベル：eventItem_SS_21_04_01(<x09><xC6><x0B><x00><x00>)
 
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 You win. Please take this.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-You're too fast, brother!
+You're too fast, bro!
 [ENDBLOCK]
 □□かけっこレベル１＆初勝利！	アイテムラベル：eventItem_SS_21_01_01(<x09><xC3><x0B><x00><x00>)
 
 [ENDBLOCK]
-Man
+Old Man
 [ENDBLOCK]
 You win. Please take this.
 [ENDBLOCK]
@@ -368,7 +368,7 @@ brother. I'll give you the win.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-You win. Please take this one.
+You win. Please take this.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -380,7 +380,7 @@ But next time, I won't lose!
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Please come back again, for sure.
+Come back and race again!
 [ENDBLOCK]
 Finish...
 [ENDBLOCK]

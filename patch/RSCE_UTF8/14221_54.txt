@@ -639,25 +639,25 @@ Old Man
 We've come this far,
 we'll have to risk it.
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 Aren't you cold
 in that, miss?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 Is it true? Is Phandaria
 really gonna go away!?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 It's cold here, huh?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 Is Seinegald really gone!?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 I collected lots of lens! Phandaria
 won't go away now, right?
@@ -703,40 +703,40 @@ Phandaria Soldier
 [ENDBLOCK]
 I will guard it with my life!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 That's a weird lookin'
 weapon you got there!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Is the enemy going to attack
 this city too? We better get
 outta here!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 The people of Cyril mighta
 been coerced by <Greybum>,
 but they still joined him!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 War, war, war!
 I'm sick of it!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 I heard that more and
 more people are dying
 from monster attacks.
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Lens, huh? Will gathering
 them up really help?
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 I'm counting on you.
 [ENDBLOCK]
@@ -851,7 +851,7 @@ steel won't be beaten by the cold!
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-AAAKKSHEWW!
+ACHOO!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -962,7 +962,7 @@ Okay.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-AKSHEW!
+ACHOO!
 [ENDBLOCK]
 <Mary>
 [ENDBLOCK]
@@ -989,7 +989,7 @@ considerate of other people.
 [ENDBLOCK]
 <Kongman>
 [ENDBLOCK]
-Guh...!
+Mm...
 [ENDBLOCK]
 <Philia>
 [ENDBLOCK]

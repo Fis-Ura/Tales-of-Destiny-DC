@@ -162,7 +162,8 @@ WHAT!?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-What are you basing that on?
+Do you have anything
+to base that on!?
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -302,7 +303,7 @@ You have my gratitude, <Stahn>.
 [ENDBLOCK]
 
 [ENDBLOCK]
-<TAG_005>There's nothing in it.
+<TAG_005>There's nothing inside.
 [ENDBLOCK]
 Man
 [ENDBLOCK]

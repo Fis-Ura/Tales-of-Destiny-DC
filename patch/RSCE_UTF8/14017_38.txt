@@ -320,8 +320,8 @@ Its flavor is the pinnacle of tastiness.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-So here's what
-I've got for you...
+Well then, let me share with
+you an interesting story...
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -388,8 +388,10 @@ in the Discovery Book.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-To quit or continue, you have
-the freedom to choose.
+You have the freedom to choose
+between ending your journey now
+or to continue forward from this
+point.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]

@@ -385,7 +385,7 @@ it's really good.
 <Mary>
 [ENDBLOCK]
 <Rutee>, you can tell if a dessert
-is good just by the name?
+is good by the name alone?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -458,8 +458,8 @@ Guess they really liked sweets.
 [ENDBLOCK]
 My Diary of Secrets...Teehee!
 [ENDBLOCK]
-Can you believe it? He made me
-a desert he called "Pudding!" Eee!
+Can you believe it? He made me a
+dessert he called "Pudding!" Eee!
 [ENDBLOCK]
 My Diary of Secrets...Teehee!
 [ENDBLOCK]

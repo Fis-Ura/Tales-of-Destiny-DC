@@ -21,7 +21,7 @@
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-What's going on here?
+What's going on?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -43,17 +43,17 @@ illness.
 [ENDBLOCK]
 Worker
 [ENDBLOCK]
-The nasty rumors that have
-been circulating are false.
+Please don't believe the rumors
+going around. They are not true.
 [ENDBLOCK]
 Come on, that's not true.
 [ENDBLOCK]
-Then bring <Hugo> here!
+Then bring <Hugo> out here!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-This is bad. If this continues,
-there is going to be a riot.
+This is bad. If this continues
+the hunters are going to riot.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -61,9 +61,8 @@ How can you be sure?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-The balance between supply
-and demand for lens, it's
-out of whack.
+Supply and demand for
+lens is all out of whack.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
@@ -81,29 +80,28 @@ That's definitely a problem.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-But, what should they do?
+But what can be done to fix this?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
 The problem is that Oberon can't
 keep up with all the people trying
-to sell lens in bulk.
+to sell-off their lens in bulk.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-If only the people selling the
-lens were more patient.
+If only these people were
+just a bit more patient...
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-If they could wait just a little bit,
-Oberon could start slowly buying
-up more lens.
+That way, little by little Oberon
+could slowly buy up more lens.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-So if we calm these people
-down, we're good?
+So all we gotta do is calm
+these people down?
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -111,7 +109,7 @@ Well, something like that.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Okay!
+I've got this!
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -124,12 +122,14 @@ Everyone, please listen to me.
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-I saw <Hugo> yesterday.
+I met with President
+<Hugo> just yesterday!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-He was pretty sick, but he
-said he should be fine soon.
+He told me himself, though
+he's real sick, he'll be back
+on his feet in no time!
 [ENDBLOCK]
 It must be true!
 [ENDBLOCK]
@@ -142,8 +142,8 @@ I was there with him.
 If they are both saying so,
 it must be true, yeah?
 [ENDBLOCK]
-If that's the case, then it
-was really just a rumor.
+So then... maybe it really
+was just a rumor...
 [ENDBLOCK]
 So it was all a misunderstanding.
 [ENDBLOCK]
@@ -154,8 +154,8 @@ but... I'm not a fan of lying.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
-In times like these,
-it's okay to lie.
+It's no big deal. You did what you
+had to do. I'm sure it's fine.
 [ENDBLOCK]
 <Rutee>
 [ENDBLOCK]
@@ -189,8 +189,8 @@ The moun... The mountain is gone!
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
-You mean to tell me the Oberon's
-CEO is the mastermind behind this
+You mean to tell me Oberon's CEO
+is the mastermind behind this?
 You've got to be kidding me!
 [ENDBLOCK]
 Woman
@@ -202,8 +202,8 @@ be shut down.
 Woman
 [ENDBLOCK]
 Is it true that the secret weapon
-being built within the castle
-uses a lot of lens?
+being built at the castle uses a
+lot of lens?
 [ENDBLOCK]
 Woman
 [ENDBLOCK]
@@ -222,8 +222,8 @@ Everyone is relying on you!
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
-It has not been publicly disclosed
-that Master <Lion> is the CEO's son.
+It has not been made public that
+Master <Lion> is the CEO's son.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -233,8 +233,7 @@ any suspicious individuals.
 Guard
 [ENDBLOCK]
 Every time I hear about Master <Lion>'s
-activities, I want to brag about him to
-someone.
+activities, I want to brag about him.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -262,7 +261,7 @@ I heard his voice, I knew.
 Guard
 [ENDBLOCK]
 Betraying one's country is a serious
-crime. I will never forgive <Hugo>.
+crime. I'll never forgive <Hugo>.
 [ENDBLOCK]
 Guard
 [ENDBLOCK]
@@ -290,12 +289,12 @@ someone to come home.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-A life free from the influence of lens.
-It's not something I could even imagine.
+A life free from the influence of
+lens. I can't even imagine it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The CEO of Oberon, <Hugo>, 
+The CEO of Oberon, <Hugo>,
 has so many magnificent 
 achievements.
 [ENDBLOCK]
@@ -306,12 +305,12 @@ found me, I was a lens hunter.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-A life free from the influence of lens.
-It's not something I could even imagine.
+A life free from the influence of
+lens. I can't even imagine it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-The CEO of Oberon, <Hugo>, 
+The CEO of Oberon, <Hugo>,
 has so many magnificent 
 achievements.
 [ENDBLOCK]
@@ -322,14 +321,13 @@ found me, I was a lens hunter.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-A life free from the influence of lens.
-It's not something I could even imagine.
+A life free from the influence of
+lens. I can't even imagine it.
 [ENDBLOCK]
 Man
 [ENDBLOCK]
-I wasn't chosen to ascend to
-the heavens. I suppose that
-means I'm not worthy.
+I wasn't chosen to ascend to the
+heavens. So am I not worthy.
 [ENDBLOCK]
 Man
 [ENDBLOCK]

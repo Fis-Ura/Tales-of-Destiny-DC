@@ -541,8 +541,8 @@ Well, see ya.
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
-Those other guys
-aren't with you?
+Aren't the others
+with you?
 [ENDBLOCK]
 Boy
 [ENDBLOCK]
@@ -639,25 +639,25 @@ Old Man
 We've come this far,
 we'll have to risk it.
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 Aren't you cold
 in that, miss?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 Is it true? Is Phandaria
 really gonna go away!?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 It's cold here, huh?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 Is Seinegald really gone!?
 [ENDBLOCK]
-Little Girl
+Girl
 [ENDBLOCK]
 I collected lots of lens! Phandaria
 won't go away now, right?
@@ -703,40 +703,40 @@ Phandaria Soldier
 [ENDBLOCK]
 I will guard it with my life!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 That's a weird lookin'
 weapon you got there!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Is the enemy going to attack
 this city too? We better get
 outta here!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 The people of Cyril mighta
 been coerced by <Greybum>,
 but they still joined him!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 War, war, war!
 I'm sick of it!
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 I heard that more and
 more people are dying
 from monster attacks.
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 Lens, huh? Will gathering
 them up really help?
 [ENDBLOCK]
-Youth
+Young Man
 [ENDBLOCK]
 I'm counting on you.
 [ENDBLOCK]
@@ -753,7 +753,7 @@ Captain
 [ENDBLOCK]
 We can't let the wounded
 on board unless we know
-what's happening.
+the circumstances.
 [ENDBLOCK]
 Captain
 [ENDBLOCK]

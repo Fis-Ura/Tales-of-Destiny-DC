@@ -298,7 +298,7 @@ look like they're in bloom...
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-There's nothing else like it.
+It's inspiring.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -312,8 +312,8 @@ swamped with requests.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-So here's what
-I've got for you...
+Well then, let me share with
+you an interesting story...
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -358,8 +358,10 @@ in the Discovery Book.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
-To quit or continue, you have
-the freedom to choose.
+You have the freedom to choose
+between ending your journey now
+or to continue forward from this
+point.
 [ENDBLOCK]
 Retired Man
 [ENDBLOCK]
@@ -374,14 +376,14 @@ beast meat poelee.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Are you staying today?
+Are you staying with us today?
 [ENDBLOCK]
  Gald.
 Is that okay?
 [ENDBLOCK]
-Have a nice day.
+Enjoy your stay.
 [ENDBLOCK]
-Come by anytime you'd like.
+Please come back anytime.
 [ENDBLOCK]
 Welcome.
 [ENDBLOCK]
@@ -394,14 +396,14 @@ beast meat poelee.
 [ENDBLOCK]
 Innkeeper
 [ENDBLOCK]
-Are you staying today?
+Are you staying with us today?
 [ENDBLOCK]
  Gald.
 Is that okay?
 [ENDBLOCK]
-Have a nice day.
+Enjoy your stay.
 [ENDBLOCK]
-Come by anytime you'd like.
+Please come back anytime.
 [ENDBLOCK]
 Welcome.
 [ENDBLOCK]

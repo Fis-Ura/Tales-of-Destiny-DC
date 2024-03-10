@@ -490,12 +490,12 @@ Lord <Woodrow>!
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
-Seeing you here fills me
-with the purest of bliss!
+Seeing you here fills
+me with felicity!
 [ENDBLOCK]
 <Stahn>
 [ENDBLOCK]
-Bliss...?
+felicity...?
 [ENDBLOCK]
 <Dymlos>
 [ENDBLOCK]
@@ -507,8 +507,8 @@ Ohh...
 [ENDBLOCK]
 <Woodrow>
 [ENDBLOCK]
-By the look of things, you
-must have gotten lost again.
+By the look of things, you must
+have gotten lost again.
 [ENDBLOCK]
 <Chelsea>
 [ENDBLOCK]
